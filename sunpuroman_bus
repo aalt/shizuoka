@@ -1,0 +1,2082 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB013_1",
+        "stop_name": "浅間通り二番街",
+        "stop_yomi": "せんげんどおりにばんがい",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB013",
+        "wheelchair_boarding": "",
+        "title": "浅間通り二番街",
+        "description": "せんげんどおりにばんがい",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.376552,
+          34.980867
+        ],
+        "type": "Point"
+      },
+      "id": "03e550a8adad8d5bf075326402058184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB005",
+        "stop_name": "東御門",
+        "stop_yomi": "ひがしごもん",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "東御門",
+        "description": "ひがしごもん",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.384873,
+          34.977011
+        ],
+        "type": "Point"
+      },
+      "id": "08b5bcbe93872332f7e2af82cb5c24d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB006",
+        "stop_name": "駿府城ひつじさる櫓",
+        "stop_yomi": "すんぷじょうひつじさるやぐら",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "駿府城ひつじさる櫓",
+        "description": "すんぷじょうひつじさるやぐら",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.381093,
+          34.977692
+        ],
+        "type": "Point"
+      },
+      "id": "0a3a42ef843808cc08b8c9350cb8968a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB008_1",
+        "stop_name": "アイセル２１",
+        "stop_yomi": "あいせるにじゅういち",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB008",
+        "wheelchair_boarding": "",
+        "title": "アイセル２１",
+        "description": "あいせるにじゅういち",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.3853,
+          34.983547
+        ],
+        "type": "Point"
+      },
+      "id": "0b140de870d6d6dee1d5d46a1ed44625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "n2724",
+        "stop_name": "中町",
+        "stop_yomi": "なかちょう",
+        "stop_desc": "しずてつジャストライン",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "中町",
+        "description": "なかちょう",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.37916,
+          34.976607
+        ],
+        "type": "Point"
+      },
+      "id": "102e58c256f20021c34c2f2bdf50ccf2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB021_1",
+        "stop_name": "御幸町",
+        "stop_yomi": "みゆきちょう",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB021",
+        "title": "御幸町",
+        "description": "みゆきちょう",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.385058,
+          34.974168
+        ],
+        "type": "Point"
+      },
+      "id": "10f3e388c5fa3069c29ed36f2c3da7ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB016_1",
+        "stop_name": "呉服町一丁目",
+        "stop_yomi": "ごふくちょういっちょうめ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB016",
+        "wheelchair_boarding": "",
+        "title": "呉服町一丁目",
+        "description": "ごふくちょういっちょうめ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.380024,
+          34.975658
+        ],
+        "type": "Point"
+      },
+      "id": "19fd1f242b9b80a6cff5ff86addde969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB011",
+        "stop_name": "浅間神社",
+        "stop_yomi": "せんげんじんじゃ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "n2bc0",
+        "wheelchair_boarding": "",
+        "title": "浅間神社",
+        "description": "せんげんじんじゃ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.37656,
+          34.983458
+        ],
+        "type": "Point"
+      },
+      "id": "1a23f63f6533d86ed0e8872cb470f0ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB005_1",
+        "stop_name": "東御門",
+        "stop_yomi": "ひがしごもん",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB005",
+        "wheelchair_boarding": "",
+        "title": "東御門",
+        "description": "ひがしごもん",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.384873,
+          34.977011
+        ],
+        "type": "Point"
+      },
+      "id": "1d9148c391c08cb899a767feabb8c8d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB013",
+        "stop_name": "浅間通り二番街",
+        "stop_yomi": "せんげんどおりにばんがい",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "浅間通り二番街",
+        "description": "せんげんどおりにばんがい",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.376552,
+          34.980867
+        ],
+        "type": "Point"
+      },
+      "id": "20d270f91b2f95b08f92cb14e3869ade"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB003_1",
+        "stop_name": "華陽院",
+        "stop_yomi": "けよういん",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB003",
+        "wheelchair_boarding": "",
+        "title": "華陽院",
+        "description": "けよういん",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.39117,
+          34.975882
+        ],
+        "type": "Point"
+      },
+      "id": "20db5d8e477d754103660910d2a81c63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB018",
+        "stop_name": "本通三丁目",
+        "stop_yomi": "ほんとおりさんちょうめ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "本通三丁目",
+        "description": "ほんとおりさんちょうめ",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.377911,
+          34.97463
+        ],
+        "type": "Point"
+      },
+      "id": "411ddf1c803ee1cba6b7f77441e6fd68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "n272e",
+        "stop_name": "赤鳥居",
+        "stop_yomi": "あかどりい",
+        "stop_desc": "しずてつジャストライン",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "赤鳥居",
+        "description": "あかどりい",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.375828,
+          34.981797
+        ],
+        "type": "Point"
+      },
+      "id": "4644ca9c13d6aa58b231ac8413f13fdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "n271a",
+        "stop_name": "静岡駅前",
+        "stop_yomi": "しずおかえきまえ",
+        "stop_desc": "しずてつジャストライン",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "静岡駅前",
+        "description": "しずおかえきまえ",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.38862,
+          34.972377
+        ],
+        "type": "Point"
+      },
+      "id": "474cccc0d90634c1ec1c7f3a544a682d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB018_1",
+        "stop_name": "本通三丁目",
+        "stop_yomi": "ほんとおりさんちょうめ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB018",
+        "wheelchair_boarding": "",
+        "title": "本通三丁目",
+        "description": "ほんとおりさんちょうめ",
+        "marker-color": "#7ec9b1",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.377911,
+          34.97463
+        ],
+        "type": "Point"
+      },
+      "id": "4d78813f7bbf3f31a345303cd2225f98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2015-07-19 10:07:06",
+        "description": "",
+        "title": "駿府浪漫バス（平日ルート）",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "stroke": "#1087bf",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "stop_id": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            138.388621,
+            34.972378,
+            0
+          ],
+          [
+            138.388383,
+            34.972312,
+            0
+          ],
+          [
+            138.388281,
+            34.97238,
+            0
+          ],
+          [
+            138.388266,
+            34.97248,
+            0
+          ],
+          [
+            138.388369,
+            34.972537,
+            0
+          ],
+          [
+            138.388563,
+            34.972521,
+            0
+          ],
+          [
+            138.388789,
+            34.972624,
+            0
+          ],
+          [
+            138.388835,
+            34.972746,
+            0
+          ],
+          [
+            138.388792,
+            34.972863,
+            0
+          ],
+          [
+            138.388604,
+            34.973158,
+            0
+          ],
+          [
+            138.388213,
+            34.974754,
+            0
+          ],
+          [
+            138.388111,
+            34.974937,
+            0
+          ],
+          [
+            138.387907,
+            34.975371,
+            0
+          ],
+          [
+            138.387853,
+            34.975392,
+            0
+          ],
+          [
+            138.387488,
+            34.975282,
+            0
+          ],
+          [
+            138.38744,
+            34.975299,
+            0
+          ],
+          [
+            138.387344,
+            34.975554,
+            0
+          ],
+          [
+            138.387366,
+            34.975599,
+            0
+          ],
+          [
+            138.387764,
+            34.975707,
+            0
+          ],
+          [
+            138.387852,
+            34.975675,
+            0
+          ],
+          [
+            138.388199,
+            34.974933,
+            0
+          ],
+          [
+            138.388318,
+            34.974917,
+            0
+          ],
+          [
+            138.391235,
+            34.975857,
+            0
+          ],
+          [
+            138.392329,
+            34.976187,
+            0
+          ],
+          [
+            138.392356,
+            34.976268,
+            0
+          ],
+          [
+            138.391739,
+            34.977177,
+            0
+          ],
+          [
+            138.391636,
+            34.977433,
+            0
+          ],
+          [
+            138.390576,
+            34.978545,
+            0
+          ],
+          [
+            138.390043,
+            34.979107,
+            0
+          ],
+          [
+            138.38837,
+            34.980536,
+            0
+          ],
+          [
+            138.388241,
+            34.980541,
+            0
+          ],
+          [
+            138.3878,
+            34.979904,
+            0
+          ],
+          [
+            138.387622,
+            34.979534,
+            0
+          ],
+          [
+            138.38576,
+            34.979751,
+            0
+          ],
+          [
+            138.385615,
+            34.97972,
+            0
+          ],
+          [
+            138.385253,
+            34.977065,
+            0
+          ],
+          [
+            138.385113,
+            34.97702,
+            0
+          ],
+          [
+            138.383294,
+            34.977228,
+            0
+          ],
+          [
+            138.382936,
+            34.977347,
+            0
+          ],
+          [
+            138.381355,
+            34.977531,
+            0
+          ],
+          [
+            138.381123,
+            34.97771,
+            0
+          ],
+          [
+            138.380428,
+            34.977846,
+            0
+          ],
+          [
+            138.380372,
+            34.977912,
+            0
+          ],
+          [
+            138.380761,
+            34.979202,
+            0
+          ],
+          [
+            138.380719,
+            34.979409,
+            0
+          ],
+          [
+            138.3812,
+            34.981132,
+            0
+          ],
+          [
+            138.381306,
+            34.981465,
+            0
+          ],
+          [
+            138.381402,
+            34.981499,
+            0
+          ],
+          [
+            138.382155,
+            34.981462,
+            0
+          ],
+          [
+            138.382588,
+            34.981525,
+            0
+          ],
+          [
+            138.383904,
+            34.981298,
+            0
+          ],
+          [
+            138.384023,
+            34.981377,
+            0
+          ],
+          [
+            138.384541,
+            34.982332,
+            0
+          ],
+          [
+            138.384694,
+            34.982496,
+            0
+          ],
+          [
+            138.384841,
+            34.982647,
+            0
+          ],
+          [
+            138.385511,
+            34.983868,
+            0
+          ],
+          [
+            138.385804,
+            34.984156,
+            0
+          ],
+          [
+            138.385759,
+            34.984243,
+            0
+          ],
+          [
+            138.384103,
+            34.984221,
+            0
+          ],
+          [
+            138.383524,
+            34.984159,
+            0
+          ],
+          [
+            138.382824,
+            34.984109,
+            0
+          ],
+          [
+            138.381225,
+            34.984056,
+            0
+          ],
+          [
+            138.376633,
+            34.983865,
+            0
+          ],
+          [
+            138.376532,
+            34.983806,
+            0
+          ],
+          [
+            138.37645,
+            34.982293,
+            0
+          ],
+          [
+            138.375677,
+            34.982046,
+            0
+          ],
+          [
+            138.375656,
+            34.981969,
+            0
+          ],
+          [
+            138.376487,
+            34.980884,
+            0
+          ],
+          [
+            138.377307,
+            34.97984,
+            0
+          ],
+          [
+            138.378129,
+            34.978782,
+            0
+          ],
+          [
+            138.377728,
+            34.97819,
+            0
+          ],
+          [
+            138.377726,
+            34.978069,
+            0
+          ],
+          [
+            138.379294,
+            34.977382,
+            0
+          ],
+          [
+            138.379464,
+            34.977273,
+            0
+          ],
+          [
+            138.379477,
+            34.977152,
+            0
+          ],
+          [
+            138.378864,
+            34.976188,
+            0
+          ],
+          [
+            138.378886,
+            34.976105,
+            0
+          ],
+          [
+            138.384676,
+            34.973696,
+            0
+          ],
+          [
+            138.384788,
+            34.973738,
+            0
+          ],
+          [
+            138.385058,
+            34.974168,
+            0
+          ],
+          [
+            138.385491,
+            34.974773,
+            0
+          ],
+          [
+            138.385792,
+            34.974864,
+            0
+          ],
+          [
+            138.38696,
+            34.974676,
+            0
+          ],
+          [
+            138.387333,
+            34.974679,
+            0
+          ],
+          [
+            138.387704,
+            34.974712,
+            0
+          ],
+          [
+            138.388155,
+            34.974845,
+            0
+          ],
+          [
+            138.38826,
+            34.974812,
+            0
+          ],
+          [
+            138.388653,
+            34.973174,
+            0
+          ],
+          [
+            138.388769,
+            34.973065,
+            0
+          ],
+          [
+            138.389166,
+            34.97284,
+            0
+          ],
+          [
+            138.389218,
+            34.972718,
+            0
+          ],
+          [
+            138.389148,
+            34.972665,
+            0
+          ],
+          [
+            138.388709,
+            34.972447,
+            0
+          ],
+          [
+            138.388622,
+            34.972376,
+            0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "5cea9eb6f83f1117f35e4fbe92ef22c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB016",
+        "stop_name": "呉服町一丁目",
+        "stop_yomi": "ごふくちょういっちょうめ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "呉服町一丁目",
+        "description": "ごふくちょういっちょうめ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.380024,
+          34.975658
+        ],
+        "type": "Point"
+      },
+      "id": "5da2db0ca039ffcd6002941fc03f1a0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB004",
+        "stop_name": "市民文化会館",
+        "stop_yomi": "しみんぶんかかいかん",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "市民文化会館",
+        "description": "しみんぶんかかいかん",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.386576,
+          34.979622
+        ],
+        "type": "Point"
+      },
+      "id": "614a70b5fdf2a18b44e2a303dd17ca0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB012",
+        "stop_name": "赤鳥居",
+        "stop_yomi": "あかどりい",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "n272e",
+        "wheelchair_boarding": "",
+        "title": "赤鳥居",
+        "description": "あかどりい",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.375828,
+          34.981797
+        ],
+        "type": "Point"
+      },
+      "id": "61e612b94189df0a80f2539293acc01f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB010",
+        "stop_name": "静岡高校入口",
+        "stop_yomi": "しずおかこうこういりぐち",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "静岡高校入口",
+        "description": "しずおかこうこういりぐち",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.379719,
+          34.983961
+        ],
+        "type": "Point"
+      },
+      "id": "64e3bcb763659e9b8804e69dacf61aa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB020",
+        "stop_name": "紺屋町",
+        "stop_yomi": "こうやまち",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "紺屋町",
+        "description": "こうやまち",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.383751,
+          34.972226
+        ],
+        "type": "Point"
+      },
+      "id": "68f4b2c7f88ab203e4973161f18a50f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB017_1",
+        "stop_name": "呉服町二丁目",
+        "stop_yomi": "ごふくちょうにちょうめ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB017",
+        "wheelchair_boarding": "",
+        "title": "呉服町二丁目",
+        "description": "ごふくちょうにちょうめ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.38234,
+          34.974691
+        ],
+        "type": "Point"
+      },
+      "id": "7032c88f4157ccf7e6d9a25e44360011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB003",
+        "stop_name": "華陽院",
+        "stop_yomi": "けよういん",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "華陽院",
+        "description": "けよういん",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.39117,
+          34.975882
+        ],
+        "type": "Point"
+      },
+      "id": "756c12542a9327bb2ad56ee012c80649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB020_1",
+        "stop_name": "紺屋町",
+        "stop_yomi": "こうやまち",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB020",
+        "wheelchair_boarding": "",
+        "title": "紺屋町",
+        "description": "こうやまち",
+        "marker-color": "#7ec9b1",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.383751,
+          34.972226
+        ],
+        "type": "Point"
+      },
+      "id": "7bb1bca1ea0d21a9d060a4694bf9a8d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB019_1",
+        "stop_name": "七間町・いかづち神社前",
+        "stop_yomi": "しちけんちょう・いかづちじんじゃまえ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB019",
+        "wheelchair_boarding": "",
+        "title": "七間町・いかづち神社前",
+        "description": "しちけんちょう・いかづちじんじゃまえ",
+        "marker-color": "#7ec9b1",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.380699,
+          34.972327
+        ],
+        "type": "Point"
+      },
+      "id": "7c42c9213ac4f3b664ff469ab5fc1df4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "n2715",
+        "stop_name": "新静岡",
+        "stop_yomi": "しんしずおか",
+        "stop_desc": "しずてつジャストライン",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "新静岡",
+        "description": "しんしずおか",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.38771,
+          34.975702
+        ],
+        "type": "Point"
+      },
+      "id": "81e61b0d485ba99d18c541ec0ebb3801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB009_1",
+        "stop_name": "長谷通り",
+        "stop_yomi": "はせどおり",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB009",
+        "wheelchair_boarding": "",
+        "title": "長谷通り",
+        "description": "はせどおり",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.382906,
+          34.984095
+        ],
+        "type": "Point"
+      },
+      "id": "9c02c05587ae41ee620f74760fc7ee10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB010_1",
+        "stop_name": "静岡高校入口",
+        "stop_yomi": "しずおかこうこういりぐち",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB010",
+        "wheelchair_boarding": "",
+        "title": "静岡高校入口",
+        "description": "しずおかこうこういりぐち",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.379719,
+          34.983961
+        ],
+        "type": "Point"
+      },
+      "id": "9c271dc6c91cb8c458177534e06655cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB004_1",
+        "stop_name": "市民文化会館",
+        "stop_yomi": "しみんぶんかかいかん",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB004",
+        "wheelchair_boarding": "",
+        "title": "市民文化会館",
+        "description": "しみんぶんかかいかん",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.386576,
+          34.979622
+        ],
+        "type": "Point"
+      },
+      "id": "a68be04a19210eeab119cad3497f3a37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB008",
+        "stop_name": "アイセル２１",
+        "stop_yomi": "あいせるにじゅういち",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "アイセル２１",
+        "description": "あいせるにじゅういち",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.3853,
+          34.983547
+        ],
+        "type": "Point"
+      },
+      "id": "b14992608142d6aa30bec669b99000a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB001",
+        "stop_name": "静岡駅前 １０番のりば",
+        "stop_yomi": "しずおかえきまえ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "n271a",
+        "wheelchair_boarding": "",
+        "title": "静岡駅前 １０番のりば",
+        "description": "しずおかえきまえ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.38862,
+          34.972377
+        ],
+        "type": "Point"
+      },
+      "id": "ba74c6d6aacf8528bf8736893c4e6fb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "n2bc0",
+        "stop_name": "浅間神社",
+        "stop_yomi": "せんげんじんじゃ",
+        "stop_desc": "しずてつジャストライン",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "浅間神社",
+        "description": "せんげんじんじゃ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.37656,
+          34.983458
+        ],
+        "type": "Point"
+      },
+      "id": "c910e24b8c431591e083fbcefeee89eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB007_1",
+        "stop_name": "中央体育館前",
+        "stop_yomi": "ちゅうおうたいいくかんまえ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB007",
+        "wheelchair_boarding": "",
+        "title": "中央体育館前",
+        "description": "ちゅうおうたいいくかんまえ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.384163,
+          34.981669
+        ],
+        "type": "Point"
+      },
+      "id": "ceee7018fb569a57dd69c4cce69de0c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB007",
+        "stop_name": "中央体育館前",
+        "stop_yomi": "ちゅうおうたいいくかんまえ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "中央体育館前",
+        "description": "ちゅうおうたいいくかんまえ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.384163,
+          34.981669
+        ],
+        "type": "Point"
+      },
+      "id": "d0ab957eb0e93a3338bab3b0b0b6d9dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB002",
+        "stop_name": "新静岡 ３番のりば",
+        "stop_yomi": "しんしずおか",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "n2715",
+        "wheelchair_boarding": "",
+        "title": "新静岡 ３番のりば",
+        "description": "しんしずおか",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.38771,
+          34.975702
+        ],
+        "type": "Point"
+      },
+      "id": "d1b4096407c529350e36c3f13eb272b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB019",
+        "stop_name": "七間町・いかづち神社前",
+        "stop_yomi": "しちけんちょう・いかづちじんじゃまえ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "七間町・いかづち神社前",
+        "description": "しちけんちょう・いかづちじんじゃまえ",
+        "marker-color": "#7ec9b1",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.380699,
+          34.972327
+        ],
+        "type": "Point"
+      },
+      "id": "d6c8e59b977a7f5af36b8478a426c800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB017",
+        "stop_name": "呉服町二丁目",
+        "stop_yomi": "ごふくちょうにちょうめ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "呉服町二丁目",
+        "description": "ごふくちょうにちょうめ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.38234,
+          34.974691
+        ],
+        "type": "Point"
+      },
+      "id": "d79aa40f3576a16d0f10d3ba65c8957d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB014",
+        "stop_name": "浅間通り",
+        "stop_yomi": "せんげんどおり",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "浅間通り",
+        "description": "せんげんどおり",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.377326,
+          34.979881
+        ],
+        "type": "Point"
+      },
+      "id": "d8adbe9dfcbcd7de4b4032ff2fd7016c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB021",
+        "stop_name": "御幸町",
+        "stop_yomi": "みゆきちょう",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "御幸町",
+        "description": "みゆきちょう",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.385058,
+          34.974168
+        ],
+        "type": "Point"
+      },
+      "id": "d99f75a8b47cb57fe3a1ff18fb5910ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB014_1",
+        "stop_name": "浅間通り",
+        "stop_yomi": "せんげんどおり",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB014",
+        "wheelchair_boarding": "",
+        "title": "浅間通り",
+        "description": "せんげんどおり",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.377326,
+          34.979881
+        ],
+        "type": "Point"
+      },
+      "id": "eaa68390d32f7bbc1642f9a659aa502c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "駿府浪漫バス（休日ルート）",
+        "description": "",
+        "title": "駿府浪漫バス（休日ルート）",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "stroke": "#7ec9b1",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            138.388621,
+            34.972378,
+            0
+          ],
+          [
+            138.388383,
+            34.972312,
+            0
+          ],
+          [
+            138.388281,
+            34.97238,
+            0
+          ],
+          [
+            138.388266,
+            34.97248,
+            0
+          ],
+          [
+            138.388369,
+            34.972537,
+            0
+          ],
+          [
+            138.388563,
+            34.972521,
+            0
+          ],
+          [
+            138.388789,
+            34.972624,
+            0
+          ],
+          [
+            138.388835,
+            34.972746,
+            0
+          ],
+          [
+            138.388792,
+            34.972863,
+            0
+          ],
+          [
+            138.388604,
+            34.973158,
+            0
+          ],
+          [
+            138.388213,
+            34.974754,
+            0
+          ],
+          [
+            138.388111,
+            34.974937,
+            0
+          ],
+          [
+            138.387907,
+            34.975371,
+            0
+          ],
+          [
+            138.387853,
+            34.975392,
+            0
+          ],
+          [
+            138.387488,
+            34.975282,
+            0
+          ],
+          [
+            138.38744,
+            34.975299,
+            0
+          ],
+          [
+            138.387344,
+            34.975554,
+            0
+          ],
+          [
+            138.387366,
+            34.975599,
+            0
+          ],
+          [
+            138.387764,
+            34.975707,
+            0
+          ],
+          [
+            138.387852,
+            34.975675,
+            0
+          ],
+          [
+            138.388199,
+            34.974933,
+            0
+          ],
+          [
+            138.388318,
+            34.974917,
+            0
+          ],
+          [
+            138.391235,
+            34.975857,
+            0
+          ],
+          [
+            138.392329,
+            34.976187,
+            0
+          ],
+          [
+            138.392356,
+            34.976268,
+            0
+          ],
+          [
+            138.391739,
+            34.977177,
+            0
+          ],
+          [
+            138.391636,
+            34.977433,
+            0
+          ],
+          [
+            138.390576,
+            34.978545,
+            0
+          ],
+          [
+            138.390043,
+            34.979107,
+            0
+          ],
+          [
+            138.38837,
+            34.980536,
+            0
+          ],
+          [
+            138.388241,
+            34.980541,
+            0
+          ],
+          [
+            138.3878,
+            34.979904,
+            0
+          ],
+          [
+            138.387622,
+            34.979534,
+            0
+          ],
+          [
+            138.38576,
+            34.979751,
+            0
+          ],
+          [
+            138.385615,
+            34.97972,
+            0
+          ],
+          [
+            138.385253,
+            34.977065,
+            0
+          ],
+          [
+            138.385113,
+            34.97702,
+            0
+          ],
+          [
+            138.383294,
+            34.977228,
+            0
+          ],
+          [
+            138.382936,
+            34.977347,
+            0
+          ],
+          [
+            138.381355,
+            34.977531,
+            0
+          ],
+          [
+            138.381123,
+            34.97771,
+            0
+          ],
+          [
+            138.380428,
+            34.977846,
+            0
+          ],
+          [
+            138.380372,
+            34.977912,
+            0
+          ],
+          [
+            138.380761,
+            34.979202,
+            0
+          ],
+          [
+            138.380719,
+            34.979409,
+            0
+          ],
+          [
+            138.3812,
+            34.981132,
+            0
+          ],
+          [
+            138.381306,
+            34.981465,
+            0
+          ],
+          [
+            138.381402,
+            34.981499,
+            0
+          ],
+          [
+            138.382155,
+            34.981462,
+            0
+          ],
+          [
+            138.382588,
+            34.981525,
+            0
+          ],
+          [
+            138.383904,
+            34.981298,
+            0
+          ],
+          [
+            138.384023,
+            34.981377,
+            0
+          ],
+          [
+            138.384541,
+            34.982332,
+            0
+          ],
+          [
+            138.384694,
+            34.982496,
+            0
+          ],
+          [
+            138.384841,
+            34.982647,
+            0
+          ],
+          [
+            138.385511,
+            34.983868,
+            0
+          ],
+          [
+            138.385804,
+            34.984156,
+            0
+          ],
+          [
+            138.385759,
+            34.984243,
+            0
+          ],
+          [
+            138.384103,
+            34.984221,
+            0
+          ],
+          [
+            138.383524,
+            34.984159,
+            0
+          ],
+          [
+            138.382824,
+            34.984109,
+            0
+          ],
+          [
+            138.381225,
+            34.984056,
+            0
+          ],
+          [
+            138.376633,
+            34.983865,
+            0
+          ],
+          [
+            138.376532,
+            34.983806,
+            0
+          ],
+          [
+            138.37645,
+            34.982293,
+            0
+          ],
+          [
+            138.375677,
+            34.982046,
+            0
+          ],
+          [
+            138.375656,
+            34.981969,
+            0
+          ],
+          [
+            138.376487,
+            34.980884,
+            0
+          ],
+          [
+            138.377307,
+            34.97984,
+            0
+          ],
+          [
+            138.378129,
+            34.978782,
+            0
+          ],
+          [
+            138.377728,
+            34.97819,
+            0
+          ],
+          [
+            138.377726,
+            34.978069,
+            0
+          ],
+          [
+            138.379294,
+            34.977382,
+            0
+          ],
+          [
+            138.379464,
+            34.977273,
+            0
+          ],
+          [
+            138.379477,
+            34.977152,
+            0
+          ],
+          [
+            138.37881,
+            34.976118,
+            0
+          ],
+          [
+            138.377341,
+            34.973775,
+            0
+          ],
+          [
+            138.377371,
+            34.973664,
+            0
+          ],
+          [
+            138.383041,
+            34.971328,
+            0
+          ],
+          [
+            138.383243,
+            34.971382,
+            0
+          ],
+          [
+            138.385058,
+            34.974168,
+            0
+          ],
+          [
+            138.385491,
+            34.974773,
+            0
+          ],
+          [
+            138.385792,
+            34.974864,
+            0
+          ],
+          [
+            138.38696,
+            34.974676,
+            0
+          ],
+          [
+            138.387333,
+            34.974679,
+            0
+          ],
+          [
+            138.387704,
+            34.974712,
+            0
+          ],
+          [
+            138.388155,
+            34.974845,
+            0
+          ],
+          [
+            138.38826,
+            34.974812,
+            0
+          ],
+          [
+            138.388653,
+            34.973174,
+            0
+          ],
+          [
+            138.388769,
+            34.973065,
+            0
+          ],
+          [
+            138.389166,
+            34.97284,
+            0
+          ],
+          [
+            138.389218,
+            34.972718,
+            0
+          ],
+          [
+            138.38915,
+            34.972665,
+            0
+          ],
+          [
+            138.388705,
+            34.972445,
+            0
+          ],
+          [
+            138.388622,
+            34.972379,
+            0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "ee3be67ff2390c422a424d7378035ac7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB009",
+        "stop_name": "長谷通り",
+        "stop_yomi": "はせどおり",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "1",
+        "parent_station": "",
+        "wheelchair_boarding": "",
+        "title": "長谷通り",
+        "description": "はせどおり",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.382906,
+          34.984095
+        ],
+        "type": "Point"
+      },
+      "id": "f22f82b47abc3a1055040f833488272f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB006_1",
+        "stop_name": "駿府城ひつじさる櫓",
+        "stop_yomi": "すんぷじょうひつじさるやぐら",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "SRB006",
+        "wheelchair_boarding": "",
+        "title": "駿府城ひつじさる櫓",
+        "description": "すんぷじょうひつじさるやぐら",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.381093,
+          34.977692
+        ],
+        "type": "Point"
+      },
+      "id": "f86d2addafbe59c234537dea5e9da5a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "SRB015",
+        "stop_name": "中町・天満宮前",
+        "stop_yomi": "なかちょう・てんまんぐうまえ",
+        "stop_desc": "駿府浪漫バス",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "n2724",
+        "wheelchair_boarding": "",
+        "title": "中町・天満宮前",
+        "description": "なかちょう・てんまんぐうまえ",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "coordinates": [
+          138.37916,
+          34.976607
+        ],
+        "type": "Point"
+      },
+      "id": "fb3ae57723f28076a1240fe91157ff74"
+    }
+  ]
+}
